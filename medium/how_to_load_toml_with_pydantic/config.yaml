@@ -1,0 +1,9 @@
+host: "localhost"
+port: 3000
+secret_key: "pydantic-settings"
+database:
+  postgres_user: "postgres"
+  postgres_password: "postgres"
+  postgres_host: "localhost"
+  postgres_port: 5432
+  postgres_db: "config"
